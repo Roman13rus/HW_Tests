@@ -1,0 +1,16 @@
+
+============================================================ 11 passed in 46.63s ============================================================= 
+(.venv) PS C:\Роман\Projects\HW_tests> & c:/Роман/Projects/HW_tests/.venv/Scripts/python.exe c:/Роман/Projects/HW_tests/test_YD.py
+============================================================ test session starts =============================================================
+platform win32 -- Python 3.11.2, pytest-7.3.2, pluggy-1.0.0
+rootdir: C:\Роман\Projects\HW_tests
+collected 11 items
+
+test_YD.py ..                                                                                                                           [ 18%]
+test_mentors.py ........                                                                                                                [ 90%]
+selenium_hw\test_selenium.py
+DevTools listening on ws://127.0.0.1:59242/devtools/browser/29410335-5a99-4b32-9c0d-3bfffe5e7715
+.                                                                                                          [100%]
+
+============================================================ 11 passed in 34.57s ============================================================= 
+(.venv) PS C:\Роман\Projects\HW_tests> 

@@ -1,0 +1,1 @@
+Y_password = '410232qwerty'
