@@ -4,7 +4,6 @@ from selenium.webdriver.chrome.service import Service
 import time
 import os
 from dotenv import load_dotenv
-# from password import Y_password
 def autorization_in_yandex():
     chrome_service = Service('C:\\Роман\\Projects\\HW_tests\\selenium\\chromedriver.exe')
     chrome_options = Options()
